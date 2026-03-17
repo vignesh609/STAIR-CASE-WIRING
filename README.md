@@ -1,4 +1,5 @@
 Name:Vignesh P 
+
 Reg no:212222210027
 
 AIM To control the status of the given lamp by using two – way switches.
